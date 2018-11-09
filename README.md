@@ -1,7 +1,16 @@
-# Babel Project Template
-Template for build compatible babel based projects
+# Facebook Bitcoin Price Alerter
+A facebook chatbot that will allow your page likers to subscribe, get bitcoint price and/or alerted every 30mins. or hour.
 
-## How to use this template
+## Features
+0. Likers can get current bitcoin price of their selected currency and market
+1. Subscribers can receive alerts of bitcoin price of their selected currency and market
+2. Subscribers will only receive alerts if their target price is less than of the current price for buying, and greater than for sellers in their selected market.
+3. Subscribers will not receive redundant price, meaning if the current bitcoin price has no changes from the last price, this will not be sent to them.
+4. Subscribers can stop anytime the alerts
+5. All commands are shown with information
+**market e.g. coins, bitmap, etc.
+
+## How to use this
 1. Copy contents of this project to another directory except for the ".git" directory
 1. Rename key "name" in package.json, 
 1. Modify sections of package.json as needed, except those that are related to build process. 
