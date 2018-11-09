@@ -8,6 +8,7 @@ A facebook chatbot that will allow your page likers to subscribe, get bitcoint p
 3. Subscribers will not receive redundant price, meaning if the current bitcoin price has no changes from the last price, this will not be sent to them.
 4. Subscribers can stop anytime the alerts
 5. All commands are shown with information
+
 **market e.g. coins, bitmap, etc.
 
 ## How to use this
