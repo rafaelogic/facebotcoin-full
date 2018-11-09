@@ -1,5 +1,5 @@
 # Facebook Bitcoin Price Alerter
-A facebook chatbot that will allow your page likers to subscribe, get bitcoint price and/or alerted every 30mins. or hour.
+A facebook chatbot that will allow your page likers to subscribe, get bitcoin price and/or get alerted every 30mins. or hour.
 
 ## Features
 0. Likers can get current bitcoin price of their selected currency and market
